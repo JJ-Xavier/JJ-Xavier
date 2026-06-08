@@ -68,24 +68,5 @@ Me chamo Jackson Junio Xavier Franco, tenho 19 anos e sou natural de Brasilia. C
  />
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"
-    style="padding-right: 10px;" 
-    src=https://github-readme-stats.vercel.app/api?username=JJ-Xavier&show_icons=true&theme=tokyonight&include_all_commitstrue&locale=pt-br
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJ-Xavier&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
 
